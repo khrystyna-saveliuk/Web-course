@@ -1,0 +1,20 @@
+{
+  "name": "frontend-lab-1",
+  "version": "1.0.0",
+  "description": "Навчальний статичний web-проєкт для лабораторної роботи №1: налаштування IDE (WebStorm), Git, деплой на GitHub Pages та Vercel.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.10.0",
+    "globals": "^17.12.0",
+    "prettier": "^3.9.6"
+  }
+}

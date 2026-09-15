@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header,
+.site-footer {
+  text-align: center;
+}
+
+.content {
+  max-width: 600px;
+  margin: 1rem auto;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.info-block {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background: #eee;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: auto;
+}
+@media (max-width: 480px) {
+  .btn {
+    width: 100%;
+  }
+}
