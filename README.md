@@ -1,7 +1,8 @@
-# Frontend Lab 1
+# Лабораторна робота 1
 
-Навчальний статичний web-проєкт для лабораторної роботи №1: налаштування IDE (WebStorm),
-Git, деплой на GitHub Pages та Vercel.
+Налаштування середовища розробки для HTML, CSS, JavaScript/TypeScript.
+
+Робоче локальне середовище фронтенд-розробки: IDE, інструменти якості коду, локальний перегляд, Git/GitHub, GitHub Pages і Vercel, кероване використання AI-агента.
 
 ## Опис
 
@@ -9,10 +10,11 @@ Git, деплой на GitHub Pages та Vercel.
 
 ## Локальний запуск
 
-1. Клонувати репозиторій: `git clone <URL>`
-2. Відкрити `index.html` у браузері (або через Live Server / WebStorm preview).
+1. Клонувати репозиторій: https://github.com/khrystyna-saveliuk/Web-course.git
+2. Встановити залежності (ESLint, Prettier)
+3. Відкрити `index.html` у браузері (або через Live Server / WebStorm preview).
 
 ## Деплой
 
-- GitHub Pages: 
-- Vercel: 
+- GitHub Pages: https://khrystyna-saveliuk.github.io/Web-course/
+- Vercel: https://web-course-eight.vercel.app/
